@@ -1,0 +1,27 @@
+#todolist {
+  text-align: center;
+  background-color: blueviolet;
+  height: 30vh;
+}
+#todolist{
+  color: wheat;
+}
+#text{
+  padding: 10px 30px;
+}
+input{
+  padding: 10px 30px;
+}
+#addto{
+  border-radius: 30px;
+  background-color: aqua;
+  padding: 10px;
+  margin-left: 10px;
+}
+button{
+  border-radius: 30px;
+background-color: aqua;
+padding: 10px;
+margin-left: 10px;
+
+}
